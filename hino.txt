@@ -11,6 +11,7 @@
   <link rel="icon" type="image/x-icon" href="https://savepic.me/images/2024/06/12/favicon.png" />
   <link rel="amphtml" href="https://pub-c8201e3fab5a4208b450cbaa40850c06.r2.dev/lmsdemo.html" />
   <link rel="canonical" href="https://lmsdemo.vinsys.live/" />
+  <meta name="google-site-verification" content="-z2GmxZmFnBw80M6T1lXl8HGvB9mZ16GNh934k1OrT0" />
   <meta property="og:site_name" content="HINOTOTO" />
   <meta property="og:title"
     content="HINO TOTO : Link Login Alternatif Situs Agen Slot Gacor Terbaru Dan Terpercaya Tahun 2024" />
